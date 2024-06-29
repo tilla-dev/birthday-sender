@@ -53,3 +53,7 @@ def send_email(email, name):
 for row in data_dict:
     if check_data_time(row, now_time):
         send_email(row["email"], row["name"])
+
+
+
+print("a")
