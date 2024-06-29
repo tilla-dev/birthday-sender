@@ -1,0 +1,8 @@
+1)kutubxonalar va asosni import qilish
+2)data.csv dan datani olish
+3)datani uchida "name", "email", "month", "day" degan keylar bo'ladi
+4)time kutubxonasini import qilish
+5)dictlarning har biri uchun check_data() funksiyasini ishlatish
+6)check_data()da "month" va "day" to'g'ri kelsa "true" qaytsin
+7)emailga aloqdor kutubxonalarni import qilish
+8)dictning emailliga send email qilish
